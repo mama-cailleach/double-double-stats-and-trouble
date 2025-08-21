@@ -1,14 +1,14 @@
 ---
 title: Double Double Stats and Trouble 001
-subtitle: All Seasons Totals – Part 1 (2013–2025)
+subtitle: All Seasons – Part 1 (2013–2025)
 date: 2025-08-21
 author: Marcelo
-summary: The first report as I build the database, a deep dive into our team's history from 2013-2025. This report provides a broad overview of our match results, run scoring, and wickets breakdown...
+summary: The first report as I build the database, a first glance into our team's history from 2013-2025. This report provides a broad overview of our match results, run scoring, and wickets breakdown...
 tags: [cricket, stats, TBONTB, all-seasons, 001]
 ---
 
 # Double Double Stats and Trouble #1
-## All Seasons Totals - Part 1 (2013–2025)
+## All Seasons - Part 1 (2013–2025)
 *As of 20 August 2025*
 
 > **A first dip into 13 seasons of cricket history**  

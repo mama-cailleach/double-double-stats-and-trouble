@@ -1,0 +1,7 @@
+title: Double Double Stats and Trouble
+description: Grassroots cricket reports from Two Bats or Not Two Bats. DIY analytics, annotated gaps, and markdown storytelling.
+theme: minima
+# Optional: Exclude files/folders from the site
+exclude:
+  - README.md
+  - .github/
