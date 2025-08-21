@@ -2,6 +2,8 @@
 layout: home
 ---
 
+![Team Logo](images/team_logo.gif)
+
 Welcome to Double Double Stats and Trouble!
 <br>*Wickets burn and innings bubble...*
 
