@@ -1,8 +1,8 @@
 ---
-title: Double Double Stats and Trouble 001
-subtitle: All Seasons – Part 1 (2013–2025)
+title: All Seasons – Part 1 (2013–2025)
+subtitle: First Edition
 date: 2025-08-21
-author: Marcelo
+author: mama
 summary: The first report as I build the database, a first glance into our team's history from 2013-2025. This report provides a broad overview of our match results, run scoring, and wickets breakdown...
 tags: [cricket, stats, TBONTB, all-seasons, 001]
 ---
@@ -21,11 +21,13 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 
 | Result         | Count      | Percentage   |
 |----------------|------------|-------------|
-| 🏟️ Total Matches | **181**    |             |
+| 🏟️ Total Matches | **181**   |  100% (179) |
 | ✅ Wins        | **8**       | 4.47%       |
 | ❌ Losses      | **170**     | 94.97%      |
 | 🪢 Ties        | **1**       | 0.56%       |
 | ⚪ No Results  | **2**       |             |
+
+*No Results come from LMS that counted those matches as wins with an empty scorecard, so not to break my tables in the way I collected the data I decided to count those as no results, but not included on percentages rates.*
 
 ### Key Numbers
 
@@ -38,7 +40,7 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 | 👨‍⚖️ Umpires          | **28**    |
 
 
-*No Results come from LMS that counted those matches as wins with an empty scorecard, so not to break my tables in the way I collected the data I decided to count those as no results, but not included on percentages rates.*
+
 
 ---
 
