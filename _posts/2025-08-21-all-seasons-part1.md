@@ -18,7 +18,6 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 
 ## 📊 Season Overview at a Glance
 
-<div style="display: flex; justify-content: space-between;">
 
 | **Match Results** | **Count** | | **Key Numbers** | **Value** |
 |-------------------|-----------|---|-----------------|-----------|
@@ -28,7 +27,6 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 | 🪢 **Ties** | **1** (0.56%) | | 🎳 **Total Runs Conceded** | **39,224** |
 | ⚪ **No Results** | **2** | | 👨‍⚖️ **Umpires** | **28** |
 
-</div>
 
 *No Results come from LMS that counted those matches as wins with an empty scorecard, so not to break my tables in the way I collected the data I decided to count those as no results, but not included on percentages rates.*
 
