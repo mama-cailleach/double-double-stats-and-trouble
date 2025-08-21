@@ -8,8 +8,9 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 ---
 
 # Double Double Stats and Trouble \#1
+
 ## All Seasons - Part 1 (2013–2025)
-*As of 20 August 2025*
+*As of 21 August 2025*
 
 > **A first dip into 13 seasons of cricket history**  
 > *Note: Stats based on LMS website data - some records may be incomplete from source*
@@ -138,8 +139,8 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 | 🦵 LBW | 38 | 3.7% |
 | 🥸 Missing | 13 | 1.3% |
 
-<br><i>
-<br>Missing are wickets that weren't registered in the batting scorecards so mode of dismissal is unknown, But are counted in the final match score. 
+
+<br><i>Missing are wickets that weren't registered in the batting scorecards so mode of dismissal is unknown, But are counted in the final match score. 
 <br>This defo deserve it's own dive, I tried a quick investigation but then bowlers scorecards total also don't match, so is another hole to get sucked in...
 <br>Not very shocking news, but is probably to do with the source. For example: Match 38 vs Elite Development Squad. 
 <br>Final score says they were 199/2 in 20 overs, the 2 wickets are credited to our bowlers in bowling scorecard. But then their batting scorecard only have one Bowled in it, everyone else Not Out.</i>
