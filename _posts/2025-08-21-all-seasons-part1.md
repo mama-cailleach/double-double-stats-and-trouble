@@ -19,13 +19,23 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 ## 📊 Season Overview at a Glance
 
 
-| **Match Results** | **Count** | | **Key Numbers** | **Value** |
-|-------------------|-----------|---|-----------------|-----------|
-| 🏟️ **Total Matches** | **181** | | 🎯 **Oppositions Faced** | **74** |
-| ✅ **Wins** | **8** (4.47%) | | ⚡ **Net Run Rate** | **-4.418** |
-| ❌ **Losses** | **170** (94.97%) | | 🏏 **Total Runs Scored** | **22,194** |
-| 🪢 **Ties** | **1** (0.56%) | | 🎳 **Total Runs Conceded** | **39,224** |
-| ⚪ **No Results** | **2** | | 👨‍⚖️ **Umpires** | **28** |
+| Result         | Count      | Percentage   |
+|----------------|------------|-------------|
+| 🏟️ Total Matches | **181**    |             |
+| ✅ Wins        | **8**       | 4.47%       |
+| ❌ Losses      | **170**     | 94.97%      |
+| 🪢 Ties        | **1**       | 0.56%       |
+| ⚪ No Results  | **2**       |             |
+
+### Key Numbers
+
+| Stat                  | Value     |
+|-----------------------|-----------|
+| 🎯 Oppositions Faced  | **74**    |
+| ⚡ Net Run Rate       | **-4.418**|
+| 🏏 Total Runs Scored  | **22,194**|
+| 🎳 Total Runs Conceded| **39,224**|
+| 👨‍⚖️ Umpires          | **28**    |
 
 
 *No Results come from LMS that counted those matches as wins with an empty scorecard, so not to break my tables in the way I collected the data I decided to count those as no results, but not included on percentages rates.*
@@ -34,47 +44,56 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 
 ## 🏆 Record Breakers
 
-### 🔥 **Biggest Moments**
-| **Achievement** | **Details** |
-|-----------------|-------------|
-| 💥 **Biggest Win** | **7 wickets** vs The Golden Ducks 76/8 x 77/1 *(First win ever - 2014)* |
-| 🤏 **Smallest Win** | **3 wickets** vs Ball Breakers 197/1 x 200/5 *(2018)* |
-| 💔 **Biggest Defeat** | **298 runs** vs Chakwal Stars 368/1 x 70/8 *(2017)* |
-| 🤏 **Smallest Defeat** | **7 runs** vs One Bat Wonders 178/7 x 171/5 *(2022)* |
+### Biggest Moments
 
-### 📈 **Batting Extremes**
-| **Record** | **Score** | **Opposition** | **Year** |
-|------------|-----------|----------------|----------|
-| 🎢 **Highest Score** | **204/5** (20 ov) | vs 8 Wide Balls | 2022 |
-| 🐣 **Lowest Score** | **41/8** (10.1 ov) | vs Mpingwe CC | 2017 |
-| 🎱 **Best Bowling** | **76/8** (17.1 ov) | The Golden Ducks | 2014 |
-| 💸 **Most Expensive** | **368/1** (20 ov) | Chakwal Stars | 2017 |
+| Achievement         | Details                                                                 |
+|---------------------|------------------------------------------------------------------------|
+| 💥 Biggest Win      | **7 wickets** vs The Golden Ducks 76/8 x 77/1 *(First win ever - 2014)* |
+| 🤏 Smallest Win     | **3 wickets** vs Ball Breakers 197/1 x 200/5 *(2018)*                   |
+| 💔 Biggest Defeat   | **298 runs** vs Chakwal Stars 368/1 x 70/8 *(2017)*                     |
+| 🤏 Smallest Defeat  | **7 runs** vs One Bat Wonders 178/7 x 171/5 *(2022)*                    |
+
+### Batting Extremes
+
+| Record           | Score         | Opposition         | Year  |
+|------------------|--------------|--------------------|-------|
+| 🎢 Highest Score | **204/5** (20 ov) | vs 8 Wide Balls | 2022  |
+| 🐣 Lowest Score  | **41/8** (10.1 ov) | vs Mpingwe CC  | 2017  |
+| 🎱 Best Bowling  | **76/8** (17.1 ov) | The Golden Ducks | 2014 |
+| 💸 Most Expensive| **368/1** (20 ov) | Chakwal Stars   | 2017  |
+
 
 ---
 
 ## 🧮 Stats Dives
 
-### 📊 **Run Analysis**
+### **Run Analysis**
 
-#### **Scoring Summary**
+#### Scoring Summary
 
-- 🏃 **Runs Off the Bat**: 21,528
-- ➕ **Opposition Extras**: 666
-- 🎳 **Total Runs** 22,194  
-- **📍 Average Innings Score**: ~123/6 
+| Stat                  | Value    |
+|-----------------------|----------|
+| 🏃 Runs Off the Bat   | 21,528   |
+| ➕ Opposition Extras  | 666      |
+| 🎳 Total Runs         | 22,194   |
+| 📍 Avg Innings Score  | ~123/6   |
 
-#### **Bowling Summary** 
-- 🎳 **Total Runs Conceded**: 39,224
-- ➖ **Our Extras**: 1,272
-- **📍 Average Innings Conceded**: ~217/4
+#### Bowling Summary
+
+| Stat                     | Value    |
+|--------------------------|----------|
+| 🎳 Total Runs Conceded   | 39,224   |
+| ➖ Our Extras            | 1,272    |
+| 📍 Avg Innings Conceded  | ~217/4   |
+
+### Volume Stats
+
+| Batting Stat         | Value    | Bowling Stat        | Value    |
+|----------------------|----------|---------------------|----------|
+| ⚾ Balls Faced        | 18,030   | ⚾ Balls Bowled      | 17,572   |
+| 🕰️ Overs Batted      | 3,317.4  | 🕰️ Overs Bowled     | 3,531.2  |
 
 
-
-### 🎚️ **Volume Stats**
-| **Batting** | | **Bowling** | |
-|-------------|---|-------------|---|
-| ⚾ **Balls Faced** | **18,030** | ⚾ **Balls Bowled** | **17,572** |
-| 🕰️ **Overs Batted** | **3,317.4** | 🕰️ **Overs Bowled** | **3,531.2** |
 
 ### 😵‍💫 **Ball Flow Discrepancy Summary**
 
@@ -127,14 +146,16 @@ tags: [cricket, stats, TBONTB, all-seasons, 001]
 
 ## 🏅 Milestones & Achievements
 
-### 🎯 **Batting Milestones**
-| **Achievement** | **Count** | | **Personal Bests** | **Count** |
-|-----------------|-----------|---|-------------------|-----------|
-| 💯 **Centuries** | **3** | | 🦆 **Total Ducks** | **138** |
-| 🎉 **Half Centuries** | **106** | | 🥇 **Golden Ducks** | **60** |
-| ⭐ **Thirties** | **155** | | 🛡️ **Not Outs** | **276** |
-| 4️⃣ **4s** | **916**  | | 🚫 **No Score N.O.** | **21** |
-| 6️⃣ **6s** | **99**  | | 🏏 **Did Not Bat** | **78** |
+### Batting Milestones
+
+| Achievement        | Count | Personal Bests      | Count |
+|--------------------|-------|---------------------|-------|
+| 💯 Centuries       | 3     | 🦆 Total Ducks      | 138   |
+| 🎉 Half Centuries  | 106   | 🥇 Golden Ducks     | 60    |
+| ⭐ Thirties        | 155   | 🛡️ Not Outs         | 276   |
+| 4️⃣ 4s             | 916   | 🚫 No Score N.O.    | 21    |
+| 6️⃣ 6s             | 99    | 🏏 Did Not Bat      | 78    |
+
 
 *Boundary data available from mid(ish)-2019 onwards*
 
