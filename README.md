@@ -1,35 +1,19 @@
-# Double Double Stats and Trouble
 
-Grassroots cricket reports from Two Bats or Not Two Bats.  
-DIY analytics, annotated gaps, and markdown storytelling.  
-Not the database, just the tales.
+## Double Double Stats and Trouble
 
-## Latest Report
+This repository contains the source code and content for the **Double Double Stats and Trouble** website, a cricket stats and analytics blog for the team "Two Bats or Not Two Bats" (TBONTB). 
 
-Coming soon
+The site is built with [Jekyll](https://jekyllrb.com/) and hosted via [GitHub Pages](https://pages.github.com/).
 
-## Repo Structure
+### What is this?
 
-├── `README.md` — You're in it hehe  
-├── `reports/` — Where the reports go  
-├── `images/` — Supporting visuals 
+This is a living archive of cricket stats reports, analytical experiments, and oddities from TBONTB.
+All content is written in Markdown and published automatically via GitHub Pages.
 
-## Future Plans and Ideas
+**Live site:** [https://mama-cailleach.github.io/double-double-stats-and-trouble/](https://mama-cailleach.github.io/double-double-stats-and-trouble/)
 
-This repo is just warming up. Here's what's brewing:
+---
 
--  **Cooler Markdown Template**  
-  Reusable report formats for a bit of flair, better design and visualization.
+## License
 
--  **Static HTML**
-    Explore turning this repo into a simple web page for better showcasing, accessibility, and friendly browsing.
-
--  **Database & Streamlit Links** *(coming soon)*  
-  External database for match logs and a Streamlit app for interactive browsing.
-
-
-
-## Note
-
-This is a living archive of cricket stats reports and analytical experiments.  
-For now it’s all about sharing insights with the team and showcasing the story behind the numbers.
+This project is for fun and learning.
