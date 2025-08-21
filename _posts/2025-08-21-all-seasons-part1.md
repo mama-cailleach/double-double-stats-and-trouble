@@ -7,7 +7,7 @@ summary: The first report as I build the database, a first glance into our team'
 tags: [cricket, stats, TBONTB, all-seasons, 001]
 ---
 
-# Double Double Stats and Trouble #1
+# Double Double Stats and Trouble \#1
 ## All Seasons - Part 1 (2013–2025)
 *As of 20 August 2025*
 

@@ -1,7 +1,7 @@
 title: Double Double Stats and Trouble
 
 author:
-  name: mama
+  name: By mama
   email: marcelo.terreiro@gmail.com
 
 description: > 
@@ -24,3 +24,4 @@ minima:
 
   nav_pages:
 #     - about.md
+  hide_site_feed_link: false
