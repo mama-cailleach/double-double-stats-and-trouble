@@ -10,15 +10,15 @@ tags: [cricket, stats, TBONTB, all-seasons, 002]
 # Double Double Stats and Trouble \#2
 
 ## 📌 Index
-- [Match Outcomes](#match-outcomes) - Matches | Wins | Losses | The Conversation™ rate
-- [Batting Summary](#batting-summary) - Runs Scored | Runs Off Bat | Opposition Extras | Balls Faced | Overs Batted | Avg Team Score
-- [Bowling Summary](#bowling-summary) - Runs Conceded | Extras Conceded | Net Run Rate | Season | Balls Bowled | Overs Bowled | Avg Score Conceded 
-- [Wickets Taken](#wickets-taken) - Total Wickets | Caught | Bowled | Run Out | LBW | Stumped | Missing | 3-Wicket Hauls | Avg Wickets/Match 
-- [Wickets Fallen](#wickets-fallen) - Total Fallen | Caught | Bowled | Run Out | LBW | Stumped | Missing | Avg Fallen/Match | Not Outs 
-- [Milestones & Misc](#milestones--misc) - 50s | 30s | Ducks | Golden Ducks | 0* Not Outs | Total Debuts
+- [Match Outcomes](#match-outcomes) - Matches, Wins, Losses, The Conversation™ rate
+- [Batting Summary](#batting-summary) - Runs Scored, Runs Off Bat, Opposition Extras, Balls Faced, Overs Batted, Avg Team Score
+- [Bowling Summary](#bowling-summary) - Runs Conceded, Extras Conceded, Net Run Rate, Season, Balls Bowled, Overs Bowled, Avg Score Conceded 
+- [Wickets Taken](#wickets-taken) - Total Wickets, Caught, Bowled, Run Out, LBW, Stumped, Missing, 3-Wicket Hauls, Avg Wickets/Match 
+- [Wickets Fallen](#wickets-fallen) - Total Fallen, Caught, Bowled, Run Out, LBW, Stumped, Missing, Avg Fallen/Match, Not Outs 
+- [Milestones & Misc](#milestones--misc) - 50s, 30s, Ducks, Golden Ducks, 0* Not Outs, Total Debuts
 - [Oppositions Debuts](#oppositions-debuts) - First Time Opposition by Season
-- [Average Innings](#average-innings) - Team Score | Wkts | Oppo Score  | Oppo Wkts 
-- [Forgotten Stats from Part 1](#forgotten-stats-from-part-1) - 3 Wicket Hauls | Maidens Bowled | Maidens Faced | POTM Award
+- [Average Innings](#average-innings) - Team Score, Wkts, Oppo Score , Oppo Wkts 
+- [Forgotten Stats from Part 1](#forgotten-stats-from-part-1) - 3 Wicket Hauls, Maidens Bowled, Maidens Faced, POTM Award
 
 Basically got the stats from last week and broke them down for each season. 
 
@@ -90,23 +90,23 @@ Basically got the stats from last week and broke them down for each season.
 
 ## Bowling Summary
 
-| Season | Runs Conceded  | Extras Conceded   | Net Run Rate |
-|--------|----------------|------------------|--------------|
-| 2013   | 2585           | 481              | -4.645       |
-| 2014   | 2740           | 398              | -4.691       |
-| 2015   | 2614           | 97               | -4.926       |
-| 2016   | 3419           | 30               | -5.021       |
-| 2017   | 4505           | 47               | -4.677       |
-| 2018   | 3809           | 39               | -4.386       |
-| 2019   | 3539           | 47               | -3.475       |
-| 2020   | 1647           | 16               | -4.271       |
-| 2021   | 3099           | 10               | -3.665       |
-| 2022   | 2576           | 26               | -4.900       |
-| 2023   | 3739           | 36               | -4.927       |
-| 2024   | 2294           | 24               | -3.269       |
-| 2025   | 2658           | 21               | -4.397       |
+| Season | Runs Conceded | Extras Conceded | Net Run Rate |
+|--------|---------------|-----------------|--------------|
+| 2013   | 2585          | 481             | -4.645       |
+| 2014   | 2740          | 398             | -4.691       |
+| 2015   | 2614          | 97              | -4.926       |
+| 2016   | 3419          | 30              | -5.021       |
+| 2017   | 4505          | 47              | -4.677       |
+| 2018   | 3809          | 39              | -4.386       |
+| 2019   | 3539          | 47              | -3.475       |
+| 2020   | 1647          | 16              | -4.271       |
+| 2021   | 3099          | 10              | -3.665       |
+| 2022   | 2576          | 26              | -4.900       |
+| 2023   | 3739          | 36              | -4.927       |
+| 2024   | 2294          | 24              | -3.269       |
+| 2025   | 2658          | 21              | -4.397       |
 
-| Season | Balls Bowled | Overs Bowled | Avg Score Conceded |
+| Season | Balls Bowled | Overs Bowled | Avg Score Conceded  |
 |--------|--------------|--------------|---------------------|
 | 2013   | 1196         | 248.1        | 199                 |
 | 2014   | 1351         | 272.1        | 196                 |
@@ -131,20 +131,20 @@ Basically got the stats from last week and broke them down for each season.
 ## Wickets Taken
 
 | Season | Total Wickets | Caught | Bowled |
-|--------|----------------|--------|--------|
-| 2013   | 54             | 17     | 10     |
-| 2014   | 54             | 16     | 20     |
-| 2015   | 47             | 14     | 20     |
-| 2016   | 65             | 27     | 30     |
-| 2017   | 102            | 48     | 37     |
-| 2018   | 74             | 33     | 26     |
-| 2019   | 78             | 36     | 27     |
-| 2020   | 21             | 10     | 8      |
-| 2021   | 62             | 28     | 25     |
-| 2022   | 42             | 28     | 9      |
-| 2023   | 59             | 32     | 19     |
-| 2024   | 48             | 17     | 26     |
-| 2025   | 46             | 23     | 13     |
+|--------|---------------|--------|--------|
+| 2013   | 54            | 17     | 10     |
+| 2014   | 54            | 16     | 20     |
+| 2015   | 47            | 14     | 20     |
+| 2016   | 65            | 27     | 30     |
+| 2017   | 102           | 48     | 37     |
+| 2018   | 74            | 33     | 26     |
+| 2019   | 78            | 36     | 27     |
+| 2020   | 21            | 10     | 8      |
+| 2021   | 62            | 28     | 25     |
+| 2022   | 42            | 28     | 9      |
+| 2023   | 59            | 32     | 19     |
+| 2024   | 48            | 17     | 26     |
+| 2025   | 46            | 23     | 13     |
 
 | Season | Run Out | LBW | Stumped |
 |--------|---------|-----|---------|
