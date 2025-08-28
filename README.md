@@ -1,7 +1,7 @@
 
 ## Double Double Stats and Trouble
 
-This repository contains the source code and content for the **Double Double Stats and Trouble** website, a cricket stats and analytics blog for the team "Two Bats or Not Two Bats" (TBONTB). 
+This repository contains the source code and content for the **Double Double Stats and Trouble** website, a cricket stats and analytics blog for the team "Two Bats or Not To Bat" (TBONTB). 
 
 The site is built with [Jekyll](https://jekyllrb.com/) and hosted via [GitHub Pages](https://pages.github.com/).
 

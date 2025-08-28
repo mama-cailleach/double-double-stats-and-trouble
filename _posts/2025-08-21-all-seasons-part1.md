@@ -7,12 +7,9 @@ summary: The first report as I build the database, a first glance into our team'
 tags: [cricket, stats, TBONTB, all-seasons, 001]
 ---
 
-# Double Double Stats and Trouble \#1
-
-## All Seasons - Part 1 (2013–2025)
+**A first dip into 13 seasons of cricket history**  
 *As of 21 August 2025*
 
-> **A first dip into 13 seasons of cricket history**  
 > *Note: Stats based on LMS website data - some records may be incomplete from source*
 
 ---

@@ -7,7 +7,7 @@ layout: home
 Welcome to Double Double Stats and Trouble!
 <br>*Wickets burn and innings bubble...*
 
-This is a living archive of cricket stats reports and analytical experiments from **Two Bats or Not Two Bats**
+This is a living archive of cricket stats reports and analytical experiments from **Two Bats or Not To Bat**
 
 As I build the TBONTB database for study, portfolio, and of course: fun. 
 
