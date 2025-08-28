@@ -20,7 +20,7 @@ tags: [cricket, stats, TBONTB, all-seasons, 002]
 - [Average Innings](#average-innings) - Team Score, Wkts, Oppo Score , Oppo Wkts 
 - [Forgotten Stats from Part 1](#forgotten-stats-from-part-1) - 3 Wicket Hauls, Maidens Bowled, Maidens Faced, POTM Award
 
-Basically got the stats from last week and broke them down for each season. 
+Basically the stats from last week broken down season by season. 
 
 *Note: Divided sections in smaller tables, with not many columns each, for visibility on mobile*
 
@@ -48,7 +48,7 @@ Basically got the stats from last week and broke them down for each season.
 
 *No Results are excluded from the table for clarity.*
 
-*Longest streak of bowling first 97 Innings from 14/06/15 - 01/08/21*
+*Longest streak of bowling first 97 matches from 14/06/15 - 01/08/21*
 
 ---
 
