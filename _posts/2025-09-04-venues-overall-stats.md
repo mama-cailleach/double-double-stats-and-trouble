@@ -336,7 +336,7 @@ tags: [cricket, stats, TBONTB, all-seasons, venues, 003]
 | Batting Avg   | 31.40   |
 | Bowling Avg   | 25.50   |
 | Umpires       | 1       |
-| Oppositions   | 13      |
+| Oppositions   | 1       |
 
 ---
 
